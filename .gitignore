@@ -41,3 +41,19 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Additional ignores
+/android/app/.cxx/
+/android/local.properties
+/android/pibot_android.iml
+/ios/Flutter/Generated.xcconfig
+/ios/Flutter/flutter_export_environment.sh
+/ios/Flutter/ephemeral/
+/linux/flutter/ephemeral/
+/macos/Flutter/ephemeral/
+/windows/flutter/ephemeral/
+.flutter-plugins
+.flutter-plugins-dependencies
+.dart_tool/
+.idea/
+*.iml
